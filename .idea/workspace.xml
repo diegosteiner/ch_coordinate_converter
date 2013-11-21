@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997d4541-2738-4526-a899-6bf42dbb1fb4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ChCoordinateConverter.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ChCoordinateConverter.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ChCoordinateConverter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/ChCoordinateConverter/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChCoordinateConverter.gemspec" afterPath="$PROJECT_DIR$/ChCoordinateConverter.gemspec" />
     </list>
     <ignored path="ChCoordinateConverter.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385051779623" ignored="false" />
-    <file path="/ChCoordinateConverter.gemspec" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385051830201" ignored="false" />
+    <file path="/ChCoordinateConverter.gemspec" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052440384" ignored="false" />
     <file path="/ChCoordinateConverter.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052031195" ignored="false" />
     <file path="/temp.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052154873" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,16 +32,16 @@
       <file leaf-file-name="ChCoordinateConverter.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChCoordinateConverter.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="68" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
+            <state line="6" column="39" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChCoordinateConverter.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ChCoordinateConverter.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="12" selection-start="2862" selection-end="2862" vertical-scroll-proportion="0.0">
+            <state line="93" column="12" selection-start="2862" selection-end="2862" vertical-scroll-proportion="1.9647887">
               <folding />
             </state>
           </provider>
@@ -78,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -105,8 +92,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/ChCoordinateConverter.gemspec" />
         <option value="$PROJECT_DIR$/lib/ChCoordinateConverter.rb" />
+        <option value="$PROJECT_DIR$/ChCoordinateConverter.gemspec" />
       </list>
     </option>
   </component>
@@ -295,20 +282,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ChCoordinateConverter.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="68" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="12" selection-start="2862" selection-end="2862" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter/version.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -326,6 +299,20 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChCoordinateConverter.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="12" selection-start="2862" selection-end="2862" vertical-scroll-proportion="1.9647887">
           <folding />
         </state>
       </provider>

@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'ChCoordinateConverter/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "ChCoordinateConverter"
+  spec.name          = "ch_coordinate_converter"
   spec.version       = ChCoordinateConverter::VERSION
   spec.authors       = ["Diego P. Steiner"]
   spec.email         = ["diego.steiner@u041.ch"]
