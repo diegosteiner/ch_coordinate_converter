@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="997d4541-2738-4526-a899-6bf42dbb1fb4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ch_coordinate_converter/version.rb" afterPath="$PROJECT_DIR$/lib/ch_coordinate_converter/version.rb" />
-    </list>
+    <list default="true" id="997d4541-2738-4526-a899-6bf42dbb1fb4" name="Default" comment="" />
     <ignored path="ChCoordinateConverter.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385051779623" ignored="false" />
@@ -13,13 +11,16 @@
     <file path="/Gemfile" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052511223" ignored="false" />
     <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/Gemfile" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052511223" ignored="false" />
     <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/models/coordinate.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052552242" ignored="false" />
-    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/shared/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054085494" ignored="false" />
-    <file path="/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054085494" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/shared/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054470669" ignored="false" />
+    <file path="/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054470669" ignored="false" />
     <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/index.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052996242" ignored="false" />
     <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/controllers/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054168126" ignored="false" />
     <file path="/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054167701" ignored="false" />
     <file path="/index.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052996242" ignored="false" />
     <file path="/ch_coordinate_converter.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054217878" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/assets/stylesheets/views/index.css.scss" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054727821" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/assets/stylesheets/layouts/search.scss" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054531932" ignored="false" />
+    <file path="/index.css.scss" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054586281" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
