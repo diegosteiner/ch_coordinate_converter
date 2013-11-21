@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997d4541-2738-4526-a899-6bf42dbb1fb4" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ChCoordinateConverter.gemspec" afterPath="$PROJECT_DIR$/ch_coordinate_converter.gemspec" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/ChCoordinateConverter.rb" afterPath="$PROJECT_DIR$/lib/ch_coordinate_converter.rb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/ChCoordinateConverter/version.rb" afterPath="$PROJECT_DIR$/lib/ch_coordinate_converter/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/ch_coordinate_converter.rb" afterPath="$PROJECT_DIR$/lib/ch_coordinate_converter.rb" />
     </list>
     <ignored path="ChCoordinateConverter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,12 +13,13 @@
     <file path="/Gemfile" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052511223" ignored="false" />
     <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/Gemfile" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052511223" ignored="false" />
     <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/models/coordinate.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052552242" ignored="false" />
-    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/shared/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052971058" ignored="false" />
-    <file path="/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052969834" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/shared/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054085494" ignored="false" />
+    <file path="/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054085494" ignored="false" />
     <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/index.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052996242" ignored="false" />
-    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/controllers/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385053688142" ignored="false" />
-    <file path="/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385053447470" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/controllers/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054168126" ignored="false" />
+    <file path="/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054167701" ignored="false" />
     <file path="/index.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052996242" ignored="false" />
+    <file path="/ch_coordinate_converter.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385054217878" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +39,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ch_coordinate_converter.gemspec" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ch_coordinate_converter.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch_coordinate_converter.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="32" selection-start="147" selection-end="147" vertical-scroll-proportion="0.062413316">
+            <state line="3" column="32" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ch_coordinate_converter.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ch_coordinate_converter.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/ch_coordinate_converter.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+            <state line="4" column="107" selection-start="202" selection-end="202" vertical-scroll-proportion="-0.5508475">
               <folding />
             </state>
           </provider>
@@ -105,8 +104,8 @@
       <list>
         <option value="$PROJECT_DIR$/lib/ChCoordinateConverter.rb" />
         <option value="$PROJECT_DIR$/ChCoordinateConverter.gemspec" />
-        <option value="$PROJECT_DIR$/lib/ch_coordinate_converter.rb" />
         <option value="$PROJECT_DIR$/ch_coordinate_converter.gemspec" />
+        <option value="$PROJECT_DIR$/lib/ch_coordinate_converter.rb" />
       </list>
     </option>
   </component>
@@ -316,16 +315,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ch_coordinate_converter.rb">
+    <entry file="file://$PROJECT_DIR$/ch_coordinate_converter.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
+        <state line="3" column="32" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch_coordinate_converter.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/ch_coordinate_converter.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="32" selection-start="147" selection-end="147" vertical-scroll-proportion="0.062413316">
+        <state line="4" column="107" selection-start="202" selection-end="202" vertical-scroll-proportion="-0.5508475">
           <folding />
         </state>
       </provider>

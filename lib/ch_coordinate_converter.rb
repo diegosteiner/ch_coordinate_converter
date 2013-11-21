@@ -2,7 +2,7 @@ require "ch_coordinate_converter/version"
 
 module ChCoordinateConverter
   class LV03Coordinate
-    FORMAT = /\A(?<y_major> \d{3})([\/|\.]?)(?<y_minor> \d{3})([\/|\.]? \/)(?<x_major> \d{3})([\/|\.]?)(?<x_minor> \d{3})(\s(?<altitude> \d*)m?)?\z/ix
+    FORMAT = /\A(?<x_major> \d{3})([\/|\.]?)(?<x_minor> \d{3})([\/|\.]? \/)(?<y_major> \d{3})([\/|\.]?)(?<y_minor> \d{3})(\s(?<altitude> \d*)m?)?\z/ix
 
     attr_accessor :x_major, :x_minor, :y_major, :y_minor, :altitude
 
