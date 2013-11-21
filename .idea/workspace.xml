@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997d4541-2738-4526-a899-6bf42dbb1fb4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ChCoordinateConverter.gemspec" afterPath="$PROJECT_DIR$/ChCoordinateConverter.gemspec" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ChCoordinateConverter.gemspec" afterPath="$PROJECT_DIR$/ch_coordinate_converter.gemspec" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/ChCoordinateConverter.rb" afterPath="$PROJECT_DIR$/lib/ch_coordinate_converter.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lib/ChCoordinateConverter/version.rb" afterPath="$PROJECT_DIR$/lib/ch_coordinate_converter/version.rb" />
     </list>
     <ignored path="ChCoordinateConverter.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -10,6 +12,15 @@
     <file path="/ChCoordinateConverter.gemspec" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052440384" ignored="false" />
     <file path="/ChCoordinateConverter.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052031195" ignored="false" />
     <file path="/temp.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052154873" ignored="false" />
+    <file path="/Gemfile" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052511223" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/Gemfile" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052511223" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/models/coordinate.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052552242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/shared/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052971058" ignored="false" />
+    <file path="/_map_point.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052969834" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/views/index/index.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052996242" ignored="false" />
+    <file path="$PROJECT_DIR$/../../pfadiheime.ch.git/app/controllers/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385053688142" ignored="false" />
+    <file path="/index_controller.rb" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385053447470" ignored="false" />
+    <file path="/index.html.haml" changelist="997d4541-2738-4526-a899-6bf42dbb1fb4" time="1385052996242" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,26 +40,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ChCoordinateConverter.gemspec" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ChCoordinateConverter.gemspec">
+      <file leaf-file-name="ch_coordinate_converter.gemspec" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch_coordinate_converter.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="39" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+            <state line="3" column="32" selection-start="147" selection-end="147" vertical-scroll-proportion="0.062413316">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChCoordinateConverter.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter.rb">
+      <file leaf-file-name="ch_coordinate_converter.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ch_coordinate_converter.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="12" selection-start="2862" selection-end="2862" vertical-scroll-proportion="1.9647887">
+            <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter/version.rb">
+        <entry file="file://$PROJECT_DIR$/lib/ch_coordinate_converter/version.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -94,6 +105,8 @@
       <list>
         <option value="$PROJECT_DIR$/lib/ChCoordinateConverter.rb" />
         <option value="$PROJECT_DIR$/ChCoordinateConverter.gemspec" />
+        <option value="$PROJECT_DIR$/lib/ch_coordinate_converter.rb" />
+        <option value="$PROJECT_DIR$/ch_coordinate_converter.gemspec" />
       </list>
     </option>
   </component>
@@ -175,7 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ChCoordinateConverter" />
+              <option name="myItemId" value="ch_coordinate_converter" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,7 +295,7 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter/version.rb">
+    <entry file="file://$PROJECT_DIR$/lib/ch_coordinate_converter/version.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
@@ -303,16 +316,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChCoordinateConverter.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/ch_coordinate_converter.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="39" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+        <state line="0" column="32" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ChCoordinateConverter.rb">
+    <entry file="file://$PROJECT_DIR$/ch_coordinate_converter.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="12" selection-start="2862" selection-end="2862" vertical-scroll-proportion="1.9647887">
+        <state line="3" column="32" selection-start="147" selection-end="147" vertical-scroll-proportion="0.062413316">
           <folding />
         </state>
       </provider>

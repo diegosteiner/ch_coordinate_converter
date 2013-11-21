@@ -1,4 +1,4 @@
-require "ChCoordinateConverter/version"
+require "ch_coordinate_converter/version"
 
 module ChCoordinateConverter
   class LV03Coordinate
